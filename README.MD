@@ -1,21 +1,6 @@
 Static Website Example
 ----------------------
 
-To be used with Cloud Academy labs.
+To be used for Testing Purpose 
 
-
-License
-----------------------
-
-This static website is based on the Dimension template by [HTML5 UP](https://html5up.net/)
-
-Creative Commons License
-All of the site templates I create for [HTML5 UP](https://html5up.net/) are licensed under the Creative Commons Attribution 3.0 License, which means you can:
- - Use them for personal stuff
- - Use them for commercial stuff
- - Change them however you like
-
-
-... all for free, yo. In exchange, just give HTML5 UP credit for the design and tell your friends about it :)
-
-More info [here](https://html5up.net/license).
+Static Website. A static website contains Web pages with fixed content. Each page is coded in HTML and displays the same information to every visitor. Static sites are the most basic type of website and are the easiest to create. Unlike dynamic websites, they do not require any Web programming or database design.
